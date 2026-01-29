@@ -16,7 +16,15 @@
 
 Olá! É um prazer ter você aqui na ATNexusLab. Na nossa comunidade, não apenas digitamos código; **construímos pontes entre o aprendizado e a prática** para gerar impacto real.
 
-Nosso Guia de Onboarding foi desenhado para você se sentir em casa desde o primeiro "Hello World". Valorizamos o **entendimento profundo** sobre o "copia e cola" e tratamos nossa **comunidade como nosso código mais valioso**.
+Nosso Guia de Onboarding foi desenhado para você se sentir em casa desde o primeiro "Hello World". Valorizamos o **entendimento profundo** sobre o "copia e cola" e tratamos nossa **comunidade como o nosso código mais valioso**.
+
+---
+
+## 🤖 Recursos da Comunidade
+
+[![Gemini AI Assistant](https://img.shields.io/badge/Gemini-AI_Assistant-198E96?style=for-the-badge&logo=google)](https://gemini.google.com/gem/52c3de512915)
+
+Explore nosso assistente personalizado do Gemini para ajudar em dúvidas e aprendizado!
 
 ---
 
