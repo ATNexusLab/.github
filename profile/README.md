@@ -6,8 +6,6 @@
 
 **Onde a Tecnologia se Encontra com a Comunidade**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ATNexusLab-198E96?style=for-the-badge&logo=github)](https://github.com/ATNexusLab)
-
 </div>
 
 ---
